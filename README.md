@@ -83,7 +83,7 @@ Python, pandas and Matplotlib were used to:
 
 The mortgage repayment model uses the standard mortgage repayment formula, assuming monthly repayments over a 25 year term: 
 $$
-M = P\frac{r(1+r)^n}{(1+r)^n-1}
+M = P \times \frac{r(1+r)^n}{(1+r)^n-1}
 $$
 
 where:
